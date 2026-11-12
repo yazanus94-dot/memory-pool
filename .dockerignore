@@ -1,0 +1,14 @@
+.git
+.gitignore
+README.md
+CHANGELOG.md
+CONTRIBUTING.md
+*.md
+*.o
+*.so
+*.a
+*.out
+build/
+dist/
+*.log
+*.tmp

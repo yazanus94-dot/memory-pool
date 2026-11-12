@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  memory-pool:
+    build: .
+    container_name: memory-pool
+    restart: "no"
+    command: ["make", "run"]
